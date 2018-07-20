@@ -1,4 +1,4 @@
-section.cta {
+section.header {
 
     position: relative;
     padding: 250px 0;
@@ -9,13 +9,13 @@ section.cta {
     /* height: 80%; */
 
 }
-.cta-content {
+.content {
 
     position: relative;
     /* z-index: 1; */
 
 }
- .cta-content h2 {
+ h2 {
 
     font-size: 80px;
     max-width: 450px;
@@ -35,7 +35,7 @@ section.cta {
 .btn {
 
     border-radius: 300px;
-    font-family: Lato,Helvetica,Arial,sans-serif;
+    
     letter-spacing: 2px;
     text-transform: uppercase;
 

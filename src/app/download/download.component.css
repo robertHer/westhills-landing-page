@@ -2,28 +2,19 @@ section.download {
     position: relative;
     padding: 150px 0;
 }
-.bg-primary{
-    background: linear-gradient(#fdcc52,#fdc539);
-    /* background-color: #007bff !important; */
-}
-section.download h2 {
+
+ h2 {
     font-size: 70px;
     margin-top: 0;
     font-weight: 200;
-letter-spacing: 1px;
+ letter-spacing: 1px;
 }
 p {
     font-size: 18px;
     line-height: 1.5;
     margin-bottom: 20px;
 }
-section.download .badges .badge-link {
-    display: inline-block;
-    margin-bottom: 0;
-}
-a{
-    color: #fdcc52;
-}
+
 
 img{
     height: 60px;

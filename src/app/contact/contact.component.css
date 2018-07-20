@@ -1,29 +1,20 @@
-section.contact {
 
-    text-align: center;
 
-}
-.bg-primary{
-    background: linear-gradient(#fdcc52,#fdc539);
-}
 section {
 
     padding: 100px 0;
 
 }
-section.contact h2 {
 
-    margin-top: 0;
-    margin-bottom: 25px;
-
-}
 
 h2 {
 
-    font-family: Catamaran,Helvetica,Arial,sans-serif;
+   
     font-weight: 200;
     letter-spacing: 1px;
     font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 25px;
 
 }
 section.contact h2 i {
