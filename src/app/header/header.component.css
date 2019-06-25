@@ -1,0 +1,30 @@
+header.header {
+    height: 100vh;
+    min-height: 775px;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: relative;
+    width: 100%;
+    color: #fff;
+    background: url(../../assets/img/bg-pattern.png),linear-gradient(to left,#7b4397,#dc2430);
+    font-family: 'Dosis', sans-serif;
+}
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+.btn-xl {
+    font-size: 11px;
+    padding: 15px 45px;
+}
+.btn {
+    border-radius: 300px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.btn-outline{
+    color: #fff;
+    border:1px solid;
+}
